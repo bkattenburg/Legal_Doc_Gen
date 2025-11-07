@@ -1,0 +1,7 @@
+streamlit==1.36.0
+
+jinja2
+faker
+fpdf
+io
+datetime
